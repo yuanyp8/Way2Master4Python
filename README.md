@@ -9,3 +9,4 @@
 
 [104_理解动态语言.md](https://github.com/Yuanyp8/Way2Master4Python/blob/main/一、数据结构与算法/104_理解动态语言.md)
 
+[105_字符串基础.md](https://github.com/Yuanyp8/Way2Master4Python/blob/main/一、数据结构与算法/105_字符串基础.md)
