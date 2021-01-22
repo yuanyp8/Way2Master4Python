@@ -1,3 +1,28 @@
+
+  * [datetime库简单使用](#datetime库简单使用)
+     * [datetime类](#datetime类)
+        * [类方法](#类方法)
+           * [today()](#today)
+           * [now(tz=None)](#nowtznone)
+           * [utcnow()](#utcnow)
+           * [fromtimestamp(timestamp,tz=None)](#fromtimestamptimestamptznone)
+        * [datetime对象](#datetime对象)
+           * [timestamp()返回一个时间到微秒的时间戳](#timestamp返回一个时间到微秒的时间戳)
+           * [时间差](#时间差)
+           * [直接构造](#直接构造)
+     * [时间对象的使用方法](#时间对象的使用方法)
+        * [解析年月日](#解析年月日)
+        * [date()](#date)
+        * [time()](#time)
+        * [replace()](#replace)
+        * [iscalendar()](#iscalendar)
+     * [日期格式化](#日期格式化)
+        * [类方法strptime(date_string,format)，返回datetime对象](#类方法strptimedate_stringformat返回datetime对象)
+        * [对象方法strftime(format)，返回字符串](#对象方法strftimeformat返回字符串)
+        * [字符串format函数格式化](#字符串format函数格式化)
+        * [<strong>附录：python中时间日期格式化符号：</strong>](#附录python中时间日期格式化符号)
+
+
 ## datetime库简单使用
 
 对日期、时间、时间戳的处理
