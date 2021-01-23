@@ -41,3 +41,10 @@
 [斐波那契数列.md](https://github.com/Yuanyp8/Way2Master4Python/blob/main/一、数据结构与算法/练习/斐波那契数列.md)
 
 [求质数.md](https://github.com/Yuanyp8/Way2Master4Python/blob/main/一、数据结构与算法/练习/求质数.md)
+
+[数字统计.md](https://github.com/Yuanyp8/Way2Master4Python/blob/main/一、数据结构与算法/练习/数字统计.md)
+
+[杨辉三角.md](https://github.com/Yuanyp8/Way2Master4Python/blob/main/一、数据结构与算法/练习/杨辉三角.md)
+
+[猴子吃桃.md](https://github.com/Yuanyp8/Way2Master4Python/blob/main/一、数据结构与算法/练习/猴子吃桃.md)
+
