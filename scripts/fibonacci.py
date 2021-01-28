@@ -15,3 +15,12 @@ for index in range(2, n):
     list4fib.append(list4fib[index-1] + list4fib[index-2])
     print("The {:>3}'s fib number is {}".format(index+1, list4fib[index]))
 
+
+"""
+递归实现
+"""
+
+
+def fibonacci(num):
+    return 1 if num < 3 else fibonacci(num-1) + fibonacci(num-2)
+
