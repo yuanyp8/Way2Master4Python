@@ -8,5 +8,10 @@
 def triangle(n=10):
     for i in range(1, n+1):
         for j in range(n, 0, -1):
-            print("{:>{}}".format(j, len(str(n))), end='\n' if j ==1 else " ") if j <= i else print("{}".format(' '*len(str(n))), end=" ")
+            print("{:>{}}".format(
+                j,
+                len(str(n))),
+                end='\n' if j == 1 else " ") if j <= i else print("{}".format(' '*len(str(n))), end=" ")
+
+
 triangle()

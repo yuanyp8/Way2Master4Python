@@ -22,5 +22,11 @@ for index in range(2, n):
 
 
 def fibonacci(num):
+    """公式法"""
     return 1 if num < 3 else fibonacci(num-1) + fibonacci(num-2)
+
+
+
+
+
 
