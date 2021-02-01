@@ -66,6 +66,8 @@
 
 [207_树.md](https://github.com/Yuanyp8/Way2Master4Python/blob/main/二、函数和递归/207_树.md)
 
+[208_简单插入排序.md](https://github.com/Yuanyp8/Way2Master4Python/blob/main/二、函数和递归/208_简单插入排序.md)
+
 ### [练习](https://github.com/Yuanyp8/Way2Master4Python/tree/main/二、函数和递归/练习)
 
 [转置矩阵.md](https://github.com/Yuanyp8/Way2Master4Python/blob/main/二、函数和递归/练习/转置矩阵.md)
@@ -73,3 +75,11 @@
 [打印三角形.md](https://github.com/Yuanyp8/Way2Master4Python/blob/main/二、函数和递归/练习/打印三角形.md)
 
 [扁平化字典.md](https://github.com/Yuanyp8/Way2Master4Python/blob/main/二、函数和递归/练习/扁平化字典.md)
+
+## [三、高阶函数与装饰器](https://github.com/Yuanyp8/Way2Master4Python/tree/main/三、高阶函数与装饰器)
+
+[301_高阶函数基础概念.md](https://github.com/Yuanyp8/Way2Master4Python/blob/main/三、高阶函数与装饰器/301_高阶函数基础概念.md)
+
+[302_map、filter和柯里化函数.md](https://github.com/Yuanyp8/Way2Master4Python/blob/main/三、高阶函数与装饰器/302_map、filter和柯里化函数.md)
+
+[303_装饰器.md](https://github.com/Yuanyp8/Way2Master4Python/blob/main/三、高阶函数与装饰器/303_装饰器.md)
