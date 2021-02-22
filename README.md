@@ -84,3 +84,16 @@
 
 [303_装饰器.md](https://github.com/Yuanyp8/Way2Master4Python/blob/main/三、高阶函数与装饰器/303_装饰器.md)
 
+[304_类型注解和参数类型检查实现.md](https://github.com/Yuanyp8/Way2Master4Python/blob/main/三、高阶函数与装饰器/304_类型注解和参数类型检查实现.md)
+
+[305_functools.md](https://github.com/Yuanyp8/Way2Master4Python/blob/main/三、高阶函数与装饰器/305_functools.md)
+
+[306_open方法和文件指针操作.md](https://github.com/Yuanyp8/Way2Master4Python/blob/main/三、高阶函数与装饰器/306_open方法和文件指针操作.md)
+
+[307_装饰器应用.md](https://github.com/Yuanyp8/Way2Master4Python/blob/main/三、高阶函数与装饰器/307_装饰器应用.md)
+
+[308_Base64编码.md](https://github.com/Yuanyp8/Way2Master4Python/blob/main/三、高阶函数与装饰器/308_Base64编码.md)
+
+## [四、文件IO](https://github.com/Yuanyp8/Way2Master4Python/tree/main/四、文件IO)
+
+[401_缓冲、编码、读写遍历.md](https://github.com/Yuanyp8/Way2Master4Python/blob/main/四、文件IO/401_缓冲、编码、读写遍历.md)

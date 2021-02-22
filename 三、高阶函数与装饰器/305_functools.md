@@ -1,6 +1,13 @@
 
+  * [reduce](#reduce)
+     * [说明](#说明)
+  * [partial函数](#partial函数)
+     * [举例演示](#举例演示)
+     * [看下源码](#看下源码)
+  * [lru_cache](#lru_cache)
+     * [使用](#使用)
 
-
+    
 ## reduce
 
 - reduce: 顾名思义，就是减少的意思
