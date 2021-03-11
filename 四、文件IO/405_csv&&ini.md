@@ -1,3 +1,26 @@
+
+  * [csv](#csv)
+     * [写一个简单的例子](#写一个简单的例子)
+     * [csv模块](#csv模块)
+        * [csv.reader()](#csvreader)
+        * [csv.writer()](#csvwriter)
+  * [ini文件处理](#ini文件处理)
+     * [section](#section)
+     * [configparser](#configparser)
+        * [看下read源码](#看下read源码)
+        * [查看ini的sections](#查看ini的sections)
+        * [查看sections的源码](#查看sections的源码)
+        * [cfg.items()](#cfgitems)
+        * [验证下items用法](#验证下items用法)
+        * [get()](#get)
+        * [set](#set)
+        * [文件保存](#文件保存)
+        * [当作字典直接访问](#当作字典直接访问)
+        * [add_section](#add_section)
+        * [remove_section](#remove_section)
+        * [增加section和option](#增加section和option)
+
+
 ## csv
 
 csv是最通用的一种文件格式，它可以非常容易地被导入各种PC表格及数据库中。此文件，一行即为数据表的一行。生成数据表字段用半角逗号隔开。csv文件用记事本和excel都能打开，用记事本打开显示逗号，用excel打开，没有逗号了，逗号都用来分列了,还可有Editplus打开。

@@ -1,4 +1,18 @@
 
+  * [目录和文件操作](#目录和文件操作)
+     * [shutil.copyfileobj(<em>fsrc</em>, <em>fdst</em>[, <em>length</em>])](#shutilcopyfileobjfsrc-fdst-length)
+        * [copyfileobj源码](#copyfileobj源码)
+     * [shutil.copyfile(<em>src</em>, <em>dst</em>, *, <em>follow_symlinks=True</em>)](#shutilcopyfilesrc-dst--follow_symlinkstrue)
+     * [shutil.copymode(<em>src</em>, <em>dst</em>, *, <em>follow_symlinks=True</em>)](#shutilcopymodesrc-dst--follow_symlinkstrue)
+     * [shutil.copystat(<em>src</em>, <em>dst</em>, *, <em>follow_symlinks=True</em>)](#shutilcopystatsrc-dst--follow_symlinkstrue)
+     * [shutil.copy(<em>src</em>, <em>dst</em>, *, <em>follow_symlinks=True</em>)](#shutilcopysrc-dst--follow_symlinkstrue)
+     * [shutil.copy2(<em>src</em>, <em>dst</em>, *, <em>follow_symlinks=True</em>)](#shutilcopy2src-dst--follow_symlinkstrue)
+     * [shutil.copytree](#shutilcopytree)
+     * [shutil.rmtree(<em>path</em>, <em>ignore_errors=False</em>, <em>onerror=None</em>)](#shutilrmtreepath-ignore_errorsfalse-onerrornone)
+     * [shutil.move(<em>src</em>, <em>dst</em>, <em>copy_function=copy2</em>)](#shutilmovesrc-dst-copy_functioncopy2)
+     * [shutil.disk_usage(<em>path</em>)](#shutildisk_usagepath)
+     * [shutil.chown(<em>path</em>, <em>user=None</em>, <em>group=None</em>)](#shutilchownpath-usernone-groupnone)
+
 
 `shutil`模块提供了一系列对文件和文件集合的高阶操作。 特别是提供了一些支持文件拷贝和删除的函数
 

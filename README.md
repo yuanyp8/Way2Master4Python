@@ -97,3 +97,27 @@
 ## [四、文件IO](https://github.com/Yuanyp8/Way2Master4Python/tree/main/四、文件IO)
 
 [401_缓冲、编码、读写遍历.md](https://github.com/Yuanyp8/Way2Master4Python/blob/main/四、文件IO/401_缓冲、编码、读写遍历.md)
+
+[402_上下文管理.md](https://github.com/Yuanyp8/Way2Master4Python/blob/main/四、文件IO/402_上下文管理.md)
+
+[403_文件路径.md](https://github.com/Yuanyp8/Way2Master4Python/blob/main/四、文件IO/403_文件路径.md)
+
+[404_shutils模块.md](https://github.com/Yuanyp8/Way2Master4Python/blob/main/四、文件IO/404_shutils模块.md)
+
+[405_csv&&ini.md](https://github.com/Yuanyp8/Way2Master4Python/blob/main/四、文件IO/405_csv%26%26ini.md)
+
+[406_序列化与反序列化.md](https://github.com/Yuanyp8/Way2Master4Python/blob/main/四、文件IO/406_序列化与反序列化.md)
+
+[407_argparse.md](https://github.com/Yuanyp8/Way2Master4Python/blob/main/四、文件IO/407_argparse.md)
+
+### [练习](https://github.com/Yuanyp8/Way2Master4Python/tree/main/四、文件IO/练习)
+
+[单词统计.md](https://github.com/Yuanyp8/Way2Master4Python/blob/main/四、文件IO/练习/单词统计.md)
+
+[实现ls命令.md](https://github.com/Yuanyp8/Way2Master4Python/blob/main/四、文件IO/练习/实现ls命令.md)
+
+[文件复制.md](https://github.com/Yuanyp8/Way2Master4Python/blob/main/四、文件IO/练习/文件复制.md)
+
+[目录复制.md](https://github.com/Yuanyp8/Way2Master4Python/blob/main/四、文件IO/练习/目录复制.md)
+
+[配置文件转换.md](https://github.com/Yuanyp8/Way2Master4Python/blob/main/四、文件IO/练习/配置文件转换.md)
